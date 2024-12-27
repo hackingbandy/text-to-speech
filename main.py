@@ -4,7 +4,7 @@ import datetime
 
 from pathlib import Path
 
-filepath = "text.txt"
+filepath = "text/text2.txt"
 filename = Path(filepath).stem
 print(filename)
 
